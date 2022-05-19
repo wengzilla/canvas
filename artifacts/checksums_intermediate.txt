@@ -1,0 +1,1 @@
+3f79efdf2c46b1958a978c6974193512e6fec60ccf77ea1036b127a7700abd52  target/wasm32-unknown-unknown/release/canvas.wasm
